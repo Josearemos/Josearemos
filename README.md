@@ -11,9 +11,9 @@
 
 •	💻   Java | C# | SQL | XML | Python
 
-•	🌐   HTML | CSS | JavaScript | Bootstrap | TypeScript | Ionic | PHP | Symfony |  Twig
+•	🌐   HTML | CSS | JavaScript | Bootstrap | TypeScript | PHP | Symfony |  Twig
 
-•	🔧   Visual Studio | Git | Angular | MySQL WorkBench | NetBeans | Eclipse | Oracle | Android Studio | PyCharm
+•	🔧   Visual Studio | Git | Angular | MySQL WorkBench | NetBeans | Eclipse | Android Studio | PyCharm
 
 
 ## Jose Antonio's Github Stats
