@@ -9,7 +9,7 @@
 
 ## 🛠 Tech Stack
 
-•	💻   Java | C# | SQL | XML | Python
+•	💻   Java | C# | SQL | XML | Python | Ionic
 
 •	🌐   HTML | CSS | JavaScript | Bootstrap | TypeScript | PHP | Symfony |  Twig
 
