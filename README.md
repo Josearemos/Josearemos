@@ -1,4 +1,4 @@
-# Jose Antonio Reina
+# José Antonio Reina
 
 ## About Me
 •	🔭   I’m currently learning more programming languages.
